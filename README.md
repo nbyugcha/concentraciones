@@ -3,9 +3,9 @@
 Para correr el programa se deben ejecutar los siguientes comandos
 
 ```bash
-python3 -m venv venv
+py -3 -m venv venv
 # activar el ambiente
-. venv/bin/activate
+venv\Scripts\activate
 ```
 
 Antes de ejecutar es necesario tener instalada la libreria flask
